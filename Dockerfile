@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM bitnami/node
 
 WORKDIR /usr/app
 
