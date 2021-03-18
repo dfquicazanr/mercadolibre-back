@@ -37,7 +37,7 @@
       "memoryReservation": 128,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "image_name",
+      "image": "mercadolibre-backend",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
