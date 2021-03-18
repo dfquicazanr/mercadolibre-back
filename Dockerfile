@@ -1,4 +1,4 @@
-FROM bitnami/node
+FROM public.ecr.aws/bitnami/node:latest
 
 WORKDIR /usr/app
 
